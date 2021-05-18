@@ -83,5 +83,5 @@ Basic knowledge of **HTML**, **CSS**,
 
 * Russian (native speaker)
 
-*  English Elementary (A1)
+*  English Elementary (A2)
 
